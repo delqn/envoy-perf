@@ -14,7 +14,7 @@ Performance benchmarking can take multiple forms:
 
 ## Subdirectories
 
-1. [cloudperf/](cloudperf/README.md) contains what appears to be an attempt an
+1. [cloudperf/](cloudperf/README.md) contains what appears to be an
    attempt at measuring performance in a realistic multi-machine
    scenario. However, the insructions don't work, and it hasn't been touched in
    a year (other than moving the files).
